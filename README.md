@@ -1,4 +1,4 @@
-<img src="githubanner.jpg"/>
+<img src="githubanner.JPG.jpg"/>
 
 <br>
 
